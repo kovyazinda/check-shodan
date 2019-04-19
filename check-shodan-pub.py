@@ -59,5 +59,5 @@ if sys.argv[1] and sys.argv[2]:
  outfile.close
 
 else:
- print ("Syntax: check-shodan.py <inputfile-withemails.txt> <outputfile.csv>")
+ print ("Syntax: check-shodan.py <inputfile-iplist.txt> <outputfile.csv>")
  
